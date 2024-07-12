@@ -1,0 +1,8 @@
+<meta>
+     <info author="evgesha" type="deathmatch" name="fraction" description="hello there" />
+     <script src="server.lua" type="server"/>
+	<script src="client_local_label.lua" type="client"/>
+     <script src="client_allvision_label.lua" type="client"/>
+     <script src="client_fraction.lua" type="client"/>
+     <script src="fraction_core.lua" type="shared"/>
+</meta>
